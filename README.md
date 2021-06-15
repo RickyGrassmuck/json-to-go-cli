@@ -1,4 +1,6 @@
-# Json-to-go-cli.jshttps://mholt.github.io/json-to-go/
+# Json-to-go-cli.js
+
+https://mholt.github.io/json-to-go/
 
 Command line wrapper around the [JSON-to-Go](https://github.com/mholt/json-to-go) module which powers the https://mholt.github.io/json-to-go/ online utility for converting a json object into a Golang type definition.
 
