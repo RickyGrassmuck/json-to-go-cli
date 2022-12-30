@@ -24,6 +24,6 @@
     "chai": "^4.2.0",
     "concat-stream": "^2.0.0",
     "cross-spawn": "^7.0.1",
-    "mocha": "^7.0.1"
+    "mocha": "^10.2.0"
   }
 }
